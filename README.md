@@ -4,9 +4,9 @@
  </h3></br>
 
 <p align="center">
-<a href="https://www.jeanvitor.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.jeanvitor.com-blue?style=for-the-badge&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/jeanvitor/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeanvitor-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.instagram.com/jeanvit/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jeanvit-blue?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.jeanvitor.com/" target="_blank">><img alt="Website" src="https://img.shields.io/badge/Website-www.jeanvitor.com-blue?style=for-the-badge&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/jeanvitor/" target="_blank">><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jeanvitor-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.instagram.com/jeanvit/" target="_blank">><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jeanvit-blue?style=for-the-badge&logo=instagram"></a>
 
 <br>
   
