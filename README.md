@@ -1,6 +1,6 @@
-<h2> <p align="center"> Hey there! I'm Jean.</h2>
+<h2> <p align="center"> Hey there! I'm Jean.<img src="https://cafeuwu.carrd.co/assets/images/image02.gif" height="32px"></h2>
 
-<h3> <p align="center"> Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+<h3> <p align="center"> Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="24px">
  </h3></br>
 
 <p align="center">
