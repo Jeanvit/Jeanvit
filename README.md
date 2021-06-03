@@ -10,23 +10,24 @@
 
 <br>
   
-<h3> <p align="center"> 🛠 &nbsp;Tech Stack</h3>
+<h3> <p align="center"> 🛠 &nbsp;My tech Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> </img>
   <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white"></img> 
   <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"></img>
+
+<p align="center">
+   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"> </img>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"> </img>
+  <img src="https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket"> </img>
   
-  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)](https://github.com/Quananhle)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle)](https://github.com/Quananhle) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle)](https://github.com/Quananhle)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Opencv-black?style=flat&logo=Opencv"> </img>
+  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras"> </img>
+  <img src="https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow"> </img>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> </img>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> </img>
+  <img src="https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy"> </img>
+  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white"> </img>
 
-
-  [![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Numpy](https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?style=flat&logo=Matplotlib&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Opencv](https://img.shields.io/badge/-Opencv-black?style=flat&logo=Opencv&logoColor=white&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI)
-  [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/Quananhle/Python-AWS-TradingAI)](https://github.com/Quananhle/Python-AWS-TradingAI) 
