@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras"> </img>
   <img src="https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow"> </img>
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> </img>
+  <img src="https://img.shields.io/badge/-Android-008000?style=flat&logo=Android&logoColor=white"> </img>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> </img>
   <img src="https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy"> </img>
   <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white"> </img>
