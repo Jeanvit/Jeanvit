@@ -31,3 +31,4 @@
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> </img>
   <img src="https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy"> </img>
   <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white"> </img>
+  <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=Django&logoColor=white"> </img>
