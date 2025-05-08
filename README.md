@@ -10,25 +10,7 @@
 
 <br>
   
-<h3> <p align="center"> 🛠 &nbsp;My tech stack</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> </img>
-  <img src="https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white"></img> 
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python"></img>
 
-<p align="center">
-   <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git"> </img>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"> </img>
-  <img src="https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket"> </img>
-  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Opencv-black?style=flat&logo=Opencv"> </img>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras"> </img>
-  <img src="https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow"> </img>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> </img>
-  <img src="https://img.shields.io/badge/-Android-008000?style=flat&logo=Android&logoColor=white"> </img>
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas"> </img>
-  <img src="https://img.shields.io/badge/-Numpy-lightgray?style=flat&logo=Numpy"> </img>
-  <img src="https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white"> </img>
-  <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat&logo=Django&logoColor=white"> </img>
+
+
